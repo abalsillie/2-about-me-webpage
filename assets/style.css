@@ -99,7 +99,7 @@ h4 {
   height: 300px;
   width: 100%;
   margin-bottom: 25px;
-  background-image: url("../Assets/Images/hero.jpg");
+  background-image: url("../assets/images/hero.jpg");
   background-size: cover;
   z-index: 1;
 }
